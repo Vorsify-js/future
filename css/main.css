@@ -6,3 +6,5 @@ body,html {
     font-family: 'Poppins', 'sans-serif';
     color: #222;
 }
+
+.navbar-brand {width: 100px;}
